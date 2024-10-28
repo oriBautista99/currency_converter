@@ -1,0 +1,23 @@
+.history__container {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+.history__container .history__input {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.5rem;
+}
+.history__container .history__input span {
+  font-weight: 500;
+}
+.history__container .history__currency {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.w-40 {
+  width: 40%;
+}/*# sourceMappingURL=converter.component.css.map */

@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/app/domains/shared/components/result/result.component.scss","result.component.css"],"names":[],"mappings":"AAAA;EACI,WAAA;EACA,mBAAA;EACA,yBAAA;EACA,aAAA;ACCJ;ADAI;EACI,eAAA;EACA,gBAAA;EACA,cAAA;ACER;ADAI;EACI,eAAA;EACA,gBAAA;EACA,cAAA;EACA,eAAA;ACER","file":"result.component.css"}

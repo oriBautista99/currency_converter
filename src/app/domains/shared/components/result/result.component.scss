@@ -1,0 +1,17 @@
+.result__card{
+    width: auto;
+    border-radius: 15px;
+    background-color: #e4e1e9;
+    padding: 1rem;
+    span{
+        font-size: 16px;
+        font-weight: 300;
+        color: #777680
+    }
+    p{
+        font-size: 24px;
+        font-weight: 600;
+        color: #3e4278;
+        margin: 0.25rem;
+    }
+}
